@@ -11,7 +11,7 @@ def print_table():
         if i % 2 != 0:
             print(i, "  ", (i ** 2), "  ", (i ** 3))
 
-    print("B2안")
+    print("B안")
     print("n   n**2   n***3")
     print("================")
     print("1    1     1")
